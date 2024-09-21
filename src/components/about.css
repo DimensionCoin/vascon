@@ -1,0 +1,7 @@
+.custom-shape {
+  shape-outside: circle();
+  clip-path: circle();
+  float: left;
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
